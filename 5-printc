@@ -1,0 +1,9 @@
+#include <stdio.h>
+
+/**
+*main -Entry point
+*Description - this uses printf
+*Return: return an integer
+*/
+
+int main(void)
