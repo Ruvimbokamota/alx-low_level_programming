@@ -1,8 +1,7 @@
 #include <stdio.h>
-
 /**
  *
- *  * main - Main function of my project
+ *  main - Main function of my project
  *
  *   
  *
@@ -12,13 +11,8 @@
  *
  *
  */
-
 int main(void)
-
 {
-
 		puts("\"Programming is like building a multilingual puzzle");
-
 			return (0);
-
 }
