@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * mai -main function
+ * main -main function
  *
  * Prints sizes of various types
  * Return: return 0
