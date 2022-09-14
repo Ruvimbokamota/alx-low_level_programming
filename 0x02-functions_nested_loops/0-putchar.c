@@ -1,24 +1,19 @@
 #include <stdio.h>
 
 /**
- * main - 
- * Return: 
+ * main  
+ * Return: 0
  */
-
 int main(void)
 {
-	char word[9] = "_putchar"
-	int k;
+	char holberton[9] = {'H', 'o', 'l', 'b', 'e', 'r', 't', 'o', 'n'};
 
-	//for (k = 1; k <= 9; k++)
-	         k = getchar();
-		 while (k != EOF){
-			_purchar(k);
-			_putchar('\n');
-		//_putchar(word[k]);
-	       //_putchar('\n');
+		unsigned int c;
 
-
-	       return (0);
-}
+		for (c = 0; c < sizeof(holberton); c++)
+		{
+			_putchar(holberton[c]);
+		}
+		_putchar('\n');
+		return (0);
 }
