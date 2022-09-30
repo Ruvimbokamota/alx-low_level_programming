@@ -2,7 +2,7 @@
 
 /**
  * main - prints name of the origram followed by \n
- * argc:argument that counts argument input
+ * @argc:argument that counts argument input
  * @argv: argument that stores the strings in an array of char* (strings)
  * Return: 0
  */
