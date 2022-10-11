@@ -1,1 +1,1 @@
-Low level programming code
+C- Structures, typedef
