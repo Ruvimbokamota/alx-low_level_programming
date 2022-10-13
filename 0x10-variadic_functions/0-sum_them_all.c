@@ -25,7 +25,7 @@ int sum_them_all(const unsigned int n, ...)
 		sum += va_arg(valist, int);
 	}
 
-	8va_end(valist);
+	va_end(valist);
 
 	return (sum);
 }
